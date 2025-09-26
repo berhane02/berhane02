@@ -1,6 +1,7 @@
 ![MasterHead](https://media.licdn.com/dms/image/D5616AQFKubed9INNww/profile-displaybackgroundimage-shrink_350_1400/0/1685084254843?e=1709769600&v=beta&t=emsNRT7UXnADBobTP7scCCiXBMEp-lQXiHEomKf10f8)
 <h1 align="center">Hi 👋, I'm Yemane Berhane</h1>
 <h3 align="center">A passionate Software Engineer and Devops Engineer</h3>
+<h3 align="center">"What I cannot create, I do not understand" Richard Feynman</h3>
 <img align="right" alt="Coding" width="400" src="https://theninehertz.com/wp-content/uploads/2020/06/full-stack-development.gif"/>
 
 - 📫 How to reach me **berhane3541@gmail.com**

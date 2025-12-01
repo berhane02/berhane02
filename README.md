@@ -31,6 +31,9 @@
 ## 🔗 Connect With Me
 
 <div align="center">
+  <a href="https://degiatyemane.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Website"/>
+  </a>
   <a href="https://www.linkedin.com/in/yemane-berhane-996691153/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
@@ -48,28 +51,49 @@
 
 ## 🛠️ Tech Stack
 
-<div align="center">
-  
-**💻 Languages:** <img src="https://skillicons.dev/icons?i=python,java,js,ts,go" />  
-**🎨 Frontend:** <img src="https://skillicons.dev/icons?i=react,nodejs" />  
-**🔧 Backend:** <img src="https://skillicons.dev/icons?i=django,spring" />  
-**🗄️ Databases:** <img src="https://skillicons.dev/icons?i=postgresql,mysql,mongodb" />  
-**☁️ Cloud & DevOps:** <img src="https://skillicons.dev/icons?i=aws,azure,gcp,docker,kubernetes,jenkins" />  
-**🔨 Tools:** <img src="https://skillicons.dev/icons?i=git,linux,kafka,rabbitmq,hadoop,tensorflow" />
-  
-</div>
+<table>
+<tr>
+<td valign="top" width="33%">
+
+**💻 Languages**<br/>
+<img src="https://skillicons.dev/icons?i=python,java,js,ts,go" />
+
+**🎨 Frontend**<br/>
+<img src="https://skillicons.dev/icons?i=react,nodejs" />
+
+</td>
+<td valign="top" width="33%">
+
+**🔧 Backend**<br/>
+<img src="https://skillicons.dev/icons?i=django,spring" />
+
+**🗄️ Databases**<br/>
+<img src="https://skillicons.dev/icons?i=postgresql,mysql,mongodb" />
+
+</td>
+<td valign="top" width="33%">
+
+**☁️ Cloud & DevOps**<br/>
+<img src="https://skillicons.dev/icons?i=aws,azure,gcp,docker,kubernetes,jenkins" />
+
+**🔨 Tools**<br/>
+<img src="https://skillicons.dev/icons?i=git,linux,kafka,rabbitmq,hadoop,tensorflow" />
+
+</td>
+</tr>
+</table>
 
 ---
 
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=berhane02&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=berhane02&layout=compact&langs_count=8&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=berhane02&show_icons=true&include_all_commits=true&count_private=true&title_color=FF4500&text_color=00FF00&icon_color=9370DB&bg_color=0D1117&border_color=9370DB&ring_color=FF4500"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=berhane02&layout=compact&langs_count=8&title_color=FF4500&text_color=00FF00&icon_color=9370DB&bg_color=0D1117&border_color=9370DB"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=berhane02&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=berhane02&theme=dark&ring=FF4500&fire=FF4500&currStreakLabel=00FF00&sideLabels=9370DB" alt="GitHub Streak" />
 </div>
 
 ---

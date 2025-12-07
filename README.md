@@ -88,11 +88,6 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=berhane02&show_icons=true&include_all_commits=true&count_private=true&title_color=FF4500&text_color=00FF00&icon_color=9370DB&bg_color=0D1117&border_color=9370DB&ring_color=FF4500"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=berhane02&layout=compact&langs_count=8&title_color=FF4500&text_color=00FF00&icon_color=9370DB&bg_color=0D1117&border_color=9370DB"/>
-</div>
-
-<div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=berhane02&theme=dark&ring=FF4500&fire=FF4500&currStreakLabel=00FF00&sideLabels=9370DB" alt="GitHub Streak" />
 </div>
 
